@@ -13,6 +13,15 @@
 - Creating Objects
   1. Using Object Initializers
   2. Using a Constructor Function
-   
+
+- Classes in JavaScript
+  - Functional Classes
+  - The Prototype Property
+  - Using Object Literals
+  - Singleton Class Using a Function
+  - Class Declarations
+  - Class Expressions
+  - The Constructor Method
+  - Static Methods
 
 
