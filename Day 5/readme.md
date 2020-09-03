@@ -9,6 +9,7 @@
 - Multi-line Strings
 - Expression Interpolation
 - Tagged Template Literals
+- Arrow Functions in JavaScript
 
 
 
