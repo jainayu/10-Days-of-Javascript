@@ -29,5 +29,14 @@
   - "" (i.e., the empty string)
 
   All other values, including all objects, evaluate to true when used as the condition in a conditional statement.
+  
+- JavaScript Switch Statements
+  - The `default` Clause
+  - The `break;` Statement
+  - Multi-Criteria Case
+
+- JavaScript Strings Basics
+  - String Constructor
+  - Methods
 
 
