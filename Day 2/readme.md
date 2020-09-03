@@ -38,5 +38,15 @@
 - JavaScript Strings Basics
   - String Constructor
   - Methods
+  
+- JavaScript Loops
+
+	Loops are a quick and easy way to repeatedly perform a series of instructions, and they are typically run a finite number of times. JavaScript has the following types of loops:
+  - for
+  - while
+  - do-while
+  - for-in
+  - for-of
+
 
 
