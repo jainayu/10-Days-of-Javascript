@@ -1,6 +1,6 @@
 ## Day 0
 
-**On Day zero I learnt JavaScript Basics:**
+**On day zero I learnt JavaScript Basics:**
 - Lexical Structure
 - Character Set
 - Printing Output

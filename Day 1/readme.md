@@ -1,6 +1,6 @@
 ## Day 1
 
-**On Day one I learnt Arithmetic Operators:**
+**On day one I learnt Arithmetic Operators:**
 
 - Operator Types
   - Unary

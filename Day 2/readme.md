@@ -1,4 +1,4 @@
-## Day 0
+## Day 2
 
 **On day two I learnt:**
 
