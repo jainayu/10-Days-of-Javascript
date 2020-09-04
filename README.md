@@ -46,3 +46,5 @@ I solved several questions daily for 10 days straight and accuired 5 stars in 10
    - [Create a Button](https://github.com/jainayu/10-Days-of-Javascript/tree/master/Day%208/Day%208:%20Create%20a%20Button)
    - [Buttons Container](https://github.com/jainayu/10-Days-of-Javascript/tree/master/Day%208/Day%208:%20Buttons%20Container)
   
+  **10. Day 9**
+   - [Binary Calculator](https://github.com/jainayu/10-Days-of-Javascript/tree/master/Day%209/Day%209:%20Binary%20Calculator)
