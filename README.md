@@ -36,4 +36,8 @@ I solved several questions daily for 10 days straight and accuired 5 stars in 10
   **7. Day 6**
    - [Bitwise Operators](https://github.com/jainayu/10-Days-of-Javascript/blob/master/Day%206/Day6:BitwiseOperators.js)
    - [JavaScript Dates](https://github.com/jainayu/10-Days-of-Javascript/blob/master/Day%206/Day6:JavaScriptDates.js)
+  **8. Day 7**
+   - [Regular Expressions I](https://github.com/jainayu/10-Days-of-Javascript/blob/master/Day%207/Day7:RegularExpressionsI.js)
+   - [Regular Expressions II](https://github.com/jainayu/10-Days-of-Javascript/blob/master/Day%207/Day7:RegularExpressionsII.js)
+   - [Regular Expressions III](https://github.com/jainayu/10-Days-of-Javascript/blob/master/Day%207/Day7:RegularExpressionsIII.js)
   
